@@ -54,6 +54,7 @@
     left: 0;
     height: 100vh;
     opacity: 0;
+    display: none;
     width: 0;
     z-index: 2000;
     transition: all .8s cubic-bezier(0.68, -0.6, 0.32, 1.6);
